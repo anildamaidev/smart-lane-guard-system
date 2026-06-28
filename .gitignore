@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+*.db
+*.csv
+
+alert_frame_*.jpg
+lane_departure_*.jpg
+
+driving_log_*.json
+sms_config.json
+yolov8s.pt
